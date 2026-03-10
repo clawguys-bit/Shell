@@ -134,7 +134,7 @@ export default function App() {
             Curated Coastal Elegance
           </h1>
           <p className="font-sans text-sea-salt/90 text-lg md:text-xl tracking-widest uppercase max-w-2xl mx-auto font-light">
-            A refined collection of nature's most exquisite architecture.
+            A Collection of Exquisite Shells
           </p>
         </div>
 
